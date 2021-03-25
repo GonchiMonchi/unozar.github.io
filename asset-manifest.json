@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/unozar.github.io/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/unozar.github.io/static/js/main.2ee62f0e.chunk.js",
+    "main.js.map": "/unozar.github.io/static/js/main.2ee62f0e.chunk.js.map",
+    "runtime-main.js": "/unozar.github.io/static/js/runtime-main.5dd2ca19.js",
+    "runtime-main.js.map": "/unozar.github.io/static/js/runtime-main.5dd2ca19.js.map",
+    "static/js/2.e9bd50d8.chunk.js": "/unozar.github.io/static/js/2.e9bd50d8.chunk.js",
+    "static/js/2.e9bd50d8.chunk.js.map": "/unozar.github.io/static/js/2.e9bd50d8.chunk.js.map",
+    "static/js/3.db9eb3f4.chunk.js": "/unozar.github.io/static/js/3.db9eb3f4.chunk.js",
+    "static/js/3.db9eb3f4.chunk.js.map": "/unozar.github.io/static/js/3.db9eb3f4.chunk.js.map",
+    "index.html": "/unozar.github.io/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/unozar.github.io/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.e9bd50d8.chunk.js.LICENSE.txt": "/unozar.github.io/static/js/2.e9bd50d8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/unozar.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dd2ca19.js",
+    "static/js/2.e9bd50d8.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.2ee62f0e.chunk.js"
+  ]
+}
